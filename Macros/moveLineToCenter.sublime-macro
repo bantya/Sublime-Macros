@@ -1,0 +1,8 @@
+[
+    {
+        "command": "show_at_center"
+    },
+    {
+        "command": "hide_auto_complete"
+    },
+]

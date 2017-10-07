@@ -1,0 +1,34 @@
+[
+    {
+        "args":
+        {
+            "extend": false,
+            "to": "bol"
+        },
+        "command": "move_to"
+    },
+    {
+        "args":
+        {
+            "extend": false,
+            "to": "bol"
+        },
+        "command": "move_to"
+    },
+    {
+        "args":
+        {
+            "amount": 1.0
+        },
+        "command": "scroll_lines",
+        "command": "scroll_lines",
+    },
+    {
+        "args":
+        {
+            "by": "lines",
+            "forward": false
+        },
+        "command": "move"
+    }
+]

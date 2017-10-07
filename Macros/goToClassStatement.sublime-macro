@@ -1,0 +1,27 @@
+// Requires 'Move By Symbols' package.
+[
+    {
+        "args":
+        {
+            "forward": false,
+            "symbol_selector": "storage.type.class"
+        },
+        "command": "move_by_symbols"
+    },
+    {
+        "args":
+        {
+            "by": "characters",
+            "forward": false
+        },
+        "command": "move"
+    },
+    {
+        "args":
+        {
+            "extend": false,
+            "to": "eol"
+        },
+        "command": "move_to"
+    },
+]
